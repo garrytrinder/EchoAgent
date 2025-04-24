@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\garrytrinder\\source\\repos\\EchoAgent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF7DBBF-6757-C96E-D6EC-3928332DA9E0}|TeamsApp\\TeamsApp.ttkproj|c:\\users\\garrytrinder\\source\\repos\\echoagent\\teamsapp\\env\\.env.dev||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3DF7DBBF-6757-C96E-D6EC-3928332DA9E0}|TeamsApp\\TeamsApp.ttkproj|solutionrelative:teamsapp\\env\\.env.dev||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF7DBBF-6757-C96E-D6EC-3928332DA9E0}|TeamsApp\\TeamsApp.ttkproj|c:\\users\\garrytrinder\\source\\repos\\echoagent\\teamsapp\\apppackage\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DF7DBBF-6757-C96E-D6EC-3928332DA9E0}|TeamsApp\\TeamsApp.ttkproj|solutionrelative:teamsapp\\apppackage\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF7DBBF-6757-C96E-D6EC-3928332DA9E0}|TeamsApp\\TeamsApp.ttkproj|c:\\users\\garrytrinder\\source\\repos\\echoagent\\teamsapp\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DF7DBBF-6757-C96E-D6EC-3928332DA9E0}|TeamsApp\\TeamsApp.ttkproj|solutionrelative:teamsapp\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF7DBBF-6757-C96E-D6EC-3928332DA9E0}|TeamsApp\\TeamsApp.ttkproj|c:\\users\\garrytrinder\\source\\repos\\echoagent\\teamsapp\\teamsapp.local.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3DF7DBBF-6757-C96E-D6EC-3928332DA9E0}|TeamsApp\\TeamsApp.ttkproj|solutionrelative:teamsapp\\teamsapp.local.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF7DBBF-6757-C96E-D6EC-3928332DA9E0}|TeamsApp\\TeamsApp.ttkproj|c:\\users\\garrytrinder\\source\\repos\\echoagent\\teamsapp\\teamsapp.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3DF7DBBF-6757-C96E-D6EC-3928332DA9E0}|TeamsApp\\TeamsApp.ttkproj|solutionrelative:teamsapp\\teamsapp.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73EBAB7-2CCC-987C-02ED-BE08CC12284B}|EchoAgent.csproj|c:\\users\\garrytrinder\\source\\repos\\echoagent\\controllers\\botcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73EBAB7-2CCC-987C-02ED-BE08CC12284B}|EchoAgent.csproj|solutionrelative:controllers\\botcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73EBAB7-2CCC-987C-02ED-BE08CC12284B}|EchoAgent.csproj|c:\\users\\garrytrinder\\source\\repos\\echoagent\\adapterwitherrorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73EBAB7-2CCC-987C-02ED-BE08CC12284B}|EchoAgent.csproj|solutionrelative:adapterwitherrorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73EBAB7-2CCC-987C-02ED-BE08CC12284B}|EchoAgent.csproj|c:\\users\\garrytrinder\\source\\repos\\echoagent\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E73EBAB7-2CCC-987C-02ED-BE08CC12284B}|EchoAgent.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73EBAB7-2CCC-987C-02ED-BE08CC12284B}|EchoAgent.csproj|c:\\users\\garrytrinder\\source\\repos\\echoagent\\agent\\echoagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73EBAB7-2CCC-987C-02ED-BE08CC12284B}|EchoAgent.csproj|solutionrelative:agent\\echoagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73EBAB7-2CCC-987C-02ED-BE08CC12284B}|EchoAgent.csproj|c:\\users\\garrytrinder\\source\\repos\\echoagent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73EBAB7-2CCC-987C-02ED-BE08CC12284B}|EchoAgent.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73EBAB7-2CCC-987C-02ED-BE08CC12284B}|EchoAgent.csproj|c:\\users\\garrytrinder\\source\\repos\\echoagent\\conversationstateextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73EBAB7-2CCC-987C-02ED-BE08CC12284B}|EchoAgent.csproj|solutionrelative:conversationstateextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".env.dev",
+              "DocumentMoniker": "C:\\Users\\garrytrinder\\source\\repos\\EchoAgent\\TeamsApp\\env\\.env.dev",
+              "RelativeDocumentMoniker": "TeamsApp\\env\\.env.dev",
+              "ToolTip": "C:\\Users\\garrytrinder\\source\\repos\\EchoAgent\\TeamsApp\\env\\.env.dev",
+              "RelativeToolTip": "TeamsApp\\env\\.env.dev",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-24T10:38:12.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "manifest.json",
+              "DocumentMoniker": "C:\\Users\\garrytrinder\\source\\repos\\EchoAgent\\TeamsApp\\appPackage\\manifest.json",
+              "RelativeDocumentMoniker": "TeamsApp\\appPackage\\manifest.json",
+              "ToolTip": "C:\\Users\\garrytrinder\\source\\repos\\EchoAgent\\TeamsApp\\appPackage\\manifest.json",
+              "RelativeToolTip": "TeamsApp\\appPackage\\manifest.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T10:29:53.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\garrytrinder\\source\\repos\\EchoAgent\\TeamsApp\\launchSettings.json",
+              "RelativeDocumentMoniker": "TeamsApp\\launchSettings.json",
+              "ToolTip": "C:\\Users\\garrytrinder\\source\\repos\\EchoAgent\\TeamsApp\\launchSettings.json",
+              "RelativeToolTip": "TeamsApp\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T10:29:48.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "teamsapp.local.yml",
+              "DocumentMoniker": "C:\\Users\\garrytrinder\\source\\repos\\EchoAgent\\TeamsApp\\teamsapp.local.yml",
+              "RelativeDocumentMoniker": "TeamsApp\\teamsapp.local.yml",
+              "ToolTip": "C:\\Users\\garrytrinder\\source\\repos\\EchoAgent\\TeamsApp\\teamsapp.local.yml",
+              "RelativeToolTip": "TeamsApp\\teamsapp.local.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-04-24T10:29:40.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "teamsapp.yml",
+              "DocumentMoniker": "C:\\Users\\garrytrinder\\source\\repos\\EchoAgent\\TeamsApp\\teamsapp.yml",
+              "RelativeDocumentMoniker": "TeamsApp\\teamsapp.yml",
+              "ToolTip": "C:\\Users\\garrytrinder\\source\\repos\\EchoAgent\\TeamsApp\\teamsapp.yml",
+              "RelativeToolTip": "TeamsApp\\teamsapp.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-04-24T10:29:39.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BotController.cs",
+              "DocumentMoniker": "C:\\Users\\garrytrinder\\source\\repos\\EchoAgent\\Controllers\\BotController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BotController.cs",
+              "ToolTip": "C:\\Users\\garrytrinder\\source\\repos\\EchoAgent\\Controllers\\BotController.cs",
+              "RelativeToolTip": "Controllers\\BotController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T09:51:42.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdapterWithErrorHandler.cs",
+              "DocumentMoniker": "C:\\Users\\garrytrinder\\source\\repos\\EchoAgent\\AdapterWithErrorHandler.cs",
+              "RelativeDocumentMoniker": "AdapterWithErrorHandler.cs",
+              "ToolTip": "C:\\Users\\garrytrinder\\source\\repos\\EchoAgent\\AdapterWithErrorHandler.cs",
+              "RelativeToolTip": "AdapterWithErrorHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T09:59:06.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\garrytrinder\\source\\repos\\EchoAgent\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\garrytrinder\\source\\repos\\EchoAgent\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T09:50:48.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EchoAgent.cs",
+              "DocumentMoniker": "C:\\Users\\garrytrinder\\source\\repos\\EchoAgent\\Agent\\EchoAgent.cs",
+              "RelativeDocumentMoniker": "Agent\\EchoAgent.cs",
+              "ToolTip": "C:\\Users\\garrytrinder\\source\\repos\\EchoAgent\\Agent\\EchoAgent.cs",
+              "RelativeToolTip": "Agent\\EchoAgent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T09:49:57.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\garrytrinder\\source\\repos\\EchoAgent\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\garrytrinder\\source\\repos\\EchoAgent\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T08:59:56.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConversationStateExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\garrytrinder\\source\\repos\\EchoAgent\\ConversationStateExtensions.cs",
+              "RelativeDocumentMoniker": "ConversationStateExtensions.cs",
+              "ToolTip": "C:\\Users\\garrytrinder\\source\\repos\\EchoAgent\\ConversationStateExtensions.cs",
+              "RelativeToolTip": "ConversationStateExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T09:49:45.189Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
